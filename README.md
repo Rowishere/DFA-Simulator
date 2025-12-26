@@ -1,6 +1,6 @@
 # DFA-Simulator
 
-A Python-based **Deterministic Finite Automaton (DFA)** simulator with a graphical user interface. This project enables users to define DFA components and test input strings interactively, eliminating the need for terminal usage.
+📌 A Python-based **Deterministic Finite Automaton (DFA)** simulator with a graphical user interface. This project enables users to define DFA components and test input strings interactively, eliminating the need for terminal usage.
 
 ## 🚀 Features
 - **User-friendly GUI:** Built for ease of use with visual input fields.
